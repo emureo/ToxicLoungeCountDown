@@ -154,7 +154,12 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  color: #5865f2; 
+}
+
+.discord-img {
+  width: 20px;
+  height: 20px;
+  display: block;
 }
 
 .social-text {
