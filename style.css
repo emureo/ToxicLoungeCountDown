@@ -76,7 +76,7 @@ body {
 }
 
 .meta {
-  margin: 20px 0 0; 
+  margin: 20px 10 0; 
   font-size: 13px;
   font-weight: 400;
   color: rgba(209, 213, 255, 0.75);
@@ -174,3 +174,4 @@ body {
   font-weight: 500;
   color: rgba(226, 232, 255, 0.9);
 }
+
