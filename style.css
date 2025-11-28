@@ -1,3 +1,5 @@
+/* ========= GLOBAL ========= */
+
 *,
 *::before,
 *::after {
@@ -74,7 +76,7 @@ body {
 }
 
 .meta {
-  margin: 0;
+  margin: 20px 0 0; 
   font-size: 13px;
   font-weight: 400;
   color: rgba(209, 213, 255, 0.75);
@@ -164,4 +166,11 @@ body {
 
 .social-text {
   letter-spacing: 0.02em;
+}
+
+.countdown {
+  margin: 0 0 14px;
+  font-size: 14px;
+  font-weight: 500;
+  color: rgba(226, 232, 255, 0.9);
 }
