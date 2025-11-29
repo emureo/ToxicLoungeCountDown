@@ -206,7 +206,6 @@ body {
   }
 }
 
-/* Hele kleine telefoons */
 @media (max-width: 480px) {
   .card {
     padding: 22px 16px 24px;
@@ -229,3 +228,4 @@ body {
     font-size: 11px;
   }
 }
+
